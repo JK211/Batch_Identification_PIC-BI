@@ -1,4 +1,4 @@
-# PIC-BI: Practical and Intelligent Combinatorial Batch Identification for UAV assisted IoT Networks
+# [Version 2] PIC-BI: Practical and Intelligent Combinatorial Batch Identification for UAV assisted IoT Networks
 *Keywords: UAV-aided IoT Networks, Combinatorial Framework, Batch Identification, Kalman Filter, Reinforcement Learning*
 
 # Description
