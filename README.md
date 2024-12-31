@@ -1,6 +1,8 @@
 # [Version 2] PIC-BI: Practical and Intelligent Combinatorial Batch Identification for UAV assisted IoT Networks
 *Keywords: UAV-aided IoT Networks, Combinatorial Framework, Batch Identification, Kalman Filter, Reinforcement Learning*
 
+Our work was accepted by CCS'24 and published in https://dl.acm.org/doi/10.1145/3658644.3670303.
+
 # Description
 
 The code in the repository implements the combinatorial batch identification framework mentioned in the paper, which specifically contains two algorithms.
